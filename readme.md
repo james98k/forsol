@@ -31,17 +31,6 @@
 폴쏠을 통해 모든 국군장병들이 보다 윤택한 군생활을 하기를 기원합니다. 
 
 
-<h2>구글 다운로드 링크</h2>
-https://bit.ly/forSolApk
-
-![bit ly_forSolApk](https://user-images.githubusercontent.com/54566288/230414910-3c34a4dd-b8ef-4ce8-a8b2-3c1ab60302e2.jpeg)
-
-
-<h2>IOS 웹앱 링크</h2>
-https://bit.ly/forSolWeb!
-
-![bit ly_forSolWeb](https://user-images.githubusercontent.com/54566288/230414847-377150d3-9fd9-4145-a481-3b672515d031.jpeg)
-
 
 <h3>소속부대 : 8사단</h3>
 <h3>팀원 : 김은호, 박상하</h3>
